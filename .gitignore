@@ -35,17 +35,4 @@ data/
 
 # macOS metadata
 ._*
-.DS_Store# Ignore all data files
-data/
-
-# Optional: ignore outputs/results too
-results/
-outputs/
-*.npy
-*.npz
-*.hdf5
-*.h5
-*.fits
-*.pkl
-*.csv
-*.dat
+.DS_Store
