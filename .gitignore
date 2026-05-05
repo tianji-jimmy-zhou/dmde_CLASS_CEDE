@@ -1,38 +1,7 @@
-# Python/cache/build files
 __pycache__/
 *.pyc
-*.pyo
-*.so
-*.egg-info/
-build/
-dist/
-
-# Jupyter checkpoints
 .ipynb_checkpoints/
-
-# R history
-.Rhistory
-
-# CLASS compiled files
-class
-libclass.a
-*.o
-
-# Outputs and generated data
-output/
-results/
-outputs/
-data/
+.DS_Store
 *.dat
 *.csv
-*.hdf5
-*.h5
-*.fits
-*.npy
-*.npz
-*.pkl
-*.tar.gz
-
-# macOS metadata
-._*
-.DS_Store
+*.pdf

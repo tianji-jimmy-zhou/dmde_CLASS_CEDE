@@ -117,3 +117,4 @@ https://github.com/lesgourg/class_public
 
 webpage!
 # dmde_class
+# dmde_CLASS_CEDE
